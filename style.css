@@ -1,0 +1,32 @@
+body {
+	margin-left: 100px;
+	background-color: pink;
+}
+
+h1 {
+	color: purple;
+	font-family: "Open Sans", sans-serif;
+	font-size: 60px;
+}
+
+h2 {
+	color: purple;
+	font-family: "Open Sans", sans-serif;
+	font-size: 50px;
+}
+
+p {
+	color: white;
+	font-family: "Open Sans", sans-serif;
+	font-size: 45px;
+}
+ol { 
+	color: yellow;
+	font-family: "Open Sans", sans-serif;
+	font-size: 30px;
+}
+a  {
+	color: purple;
+	font-family: "Open Sans", sans-serif;
+	font-size: 30px;
+}
